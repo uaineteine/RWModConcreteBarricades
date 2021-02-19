@@ -6,17 +6,19 @@
 	<supportedVersions><li>1.2</li></supportedVersions>
 	<description>	mv0.0.1
 
-Why stand around a drill all day? You've got better things to do!
-Automated drills!
+Why make a simple wooden barricade when concrete is available and a stronger and quick setting material.
 
-Speed based on a lv10 miner.
-Output yield scales with vanilla difficulty.
+This mod adds a fortified barricade to the security tab:
+	- standard size (1x1)
+	- extended Hitpoints: 440
+	- quicker to build: 220 work
+	- flameproof
 
-Basic AutoDrill 
-	- standard size bore (2 radius, 3x3)
-	- average drill cycle of 5.5 hours
-	- 80% deposit consumption
-	- 80% resource output
+Unlockable with research after concrete making.
+
+Requirements:
+	- Expanded Materials - Metals
+
 	</description>
 	 <!-- List of other mods which your mod requires to function. -->
     <modDependencies>
