@@ -18,4 +18,18 @@ Basic AutoDrill
 	- 80% deposit consumption
 	- 80% resource output
 	</description>
+	 <!-- List of other mods which your mod requires to function. -->
+    <modDependencies>
+        <li>
+            <packageId>Argon.VMEu</packageId>
+            <displayName>Expanded Materials - Metals</displayName>
+            <downloadUrl>https://github.com/TheOriginalArgon/Expanded-Materials---Metals</downloadUrl>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2259837114</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+	 <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+		<li>Argon.VMEu</li>
+    </loadAfter>
 </ModMetaData>

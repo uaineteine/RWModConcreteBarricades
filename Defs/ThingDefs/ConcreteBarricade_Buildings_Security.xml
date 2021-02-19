@@ -40,7 +40,7 @@
     </building>
     <placingDraggableDimensions>1</placingDraggableDimensions>
     <stuffCategories>
-      <li>VMEu_ConcreteStuffCategory</li>
+      <li>UT_VMEu_ConcreteOnlyCategory</li>
     </stuffCategories>
     <costStuffCount>5</costStuffCount>
 	<researchPrerequisites><li>ConcreteBarricade_Basic</li></researchPrerequisites>
