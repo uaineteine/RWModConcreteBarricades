@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Expanded Materials-Concrete Barricade</name>
+	<author>Uaine Teine</author>
+	<packageId>UT.Concrete Barricade</packageId>
+	<supportedVersions><li>1.2</li></supportedVersions>
+	<description>	mv0.0.1
+
+Why stand around a drill all day? You've got better things to do!
+Automated drills!
+
+Speed based on a lv10 miner.
+Output yield scales with vanilla difficulty.
+
+Basic AutoDrill 
+	- standard size bore (2 radius, 3x3)
+	- average drill cycle of 5.5 hours
+	- 80% deposit consumption
+	- 80% resource output
+	</description>
+</ModMetaData>
