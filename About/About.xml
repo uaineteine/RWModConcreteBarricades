@@ -4,7 +4,7 @@
 	<author>Uaine Teine</author>
 	<packageId>UT.ConcreteBarricade</packageId>
 	<supportedVersions><li>1.2</li></supportedVersions>
-	<description>	v1
+	<description>	v1.1
 
 Why make a simple wooden barricade when concrete is available and a stronger and quick setting material.
 
@@ -15,6 +15,8 @@ This mod adds a fortified barricade to the security tab:
 	- flameproof
 
 Unlockable with research after concrete making.
+
+Also patches in a variant of the barricade that can be built out of rock powder, no stat differences.
 
 Requirements:
 	- Expanded Materials - Metals

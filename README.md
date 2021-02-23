@@ -16,6 +16,8 @@ This mod adds a fortified barricade to the security tab:
 
 Unlockable with research after concrete making.
 
+Also patches in a variant of the barricade that can be built out of rock powder, no stat differences.
+
 ## Requirements
 The following mods are required:
 
@@ -23,7 +25,7 @@ The following mods are required:
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2401400212)
 
-## Version 1.0
+## Version 1.1
 
 
 ## Donate

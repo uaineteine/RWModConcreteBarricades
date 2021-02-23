@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-
 <!-- Expanded Materials - Metals -->
 <Operation Class="PatchOperationFindMod">
     <mods>
@@ -12,18 +11,5 @@
 				<li>UT_VMEu_ConcreteOnlyCategory</li>
 			</value>
 		</match>
-		<match Class="PatchOperationAdd">
-			<xpath>/Defs/ThingDef[defName="VMEu_Rock"]/stuffProps/categories</xpath>
-			<value>
-				<li>UT_VMEu_RockOnlyCategory</li>
-			</value>
-		</match>
 </Operation>
-<Operation Class="PatchOperationAdd">
-			<xpath>/Defs/ThingDef[defName="barricade"]/stuffCategories</xpath>
-			<value>
-				<li>UT_VMEu_RockOnlyCategory</li>
-			</value>
-</Operation>
-
 </Patch>

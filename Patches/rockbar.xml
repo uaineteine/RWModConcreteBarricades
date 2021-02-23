@@ -1,0 +1,9 @@
+<Patch>
+<!-- Expanded Materials - Metals -->
+<Operation Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="Barricade"]/stuffCategories</xpath>
+			<value>
+				<li>UT_VMEu_RockOnlyCategory</li>
+			</value>
+</Operation>
+</Patch>
