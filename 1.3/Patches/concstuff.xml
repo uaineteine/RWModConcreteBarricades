@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+<!-- Expanded Materials - Metals -->
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Expanded Materials - Metals</li>
+    </mods>
+		<match Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="VMEu_Concrete"]/stuffProps/categories</xpath>
+			<value>
+				<li>UT_VMEu_ConcreteOnlyCategory</li>
+			</value>
+		</match>
+</Operation>
+</Patch>

@@ -25,7 +25,7 @@ The following mods are required:
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2401400212)
 
-## Version 1.1
+## Version 1.1.1
 
 
 ## Donate
