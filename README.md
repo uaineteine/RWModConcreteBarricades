@@ -21,7 +21,7 @@ Also patches in a variant of the barricade that can be built out of rock powder,
 ## Requirements
 The following mods are required:
 
-	- [Expanded Materials - Metals](https://steamcommunity.com/workshop/filedetails/?id=2259837114)
+[Expanded Materials - Metals](https://steamcommunity.com/workshop/filedetails/?id=2259837114)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2404060829)
 
